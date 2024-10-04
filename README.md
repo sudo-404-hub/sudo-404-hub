@@ -1,11 +1,9 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm 404</h1>
 <h3 align="center">A passionate cybersecurity kid.</h3>
 
 - 🌱 I’m currently learning **Networking**
 
-- 📫 How to reach me **https://discord.com/users/1248974414221938728**
+- 📫 How to reach me [Discord](**https://discord.com/users/1248974414221938728**)
 
 - ⚡ Fun fact **see you soon.**
 
