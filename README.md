@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **see you soon.**
 
+- ✨ With great hacking power comes great responsibility! 💻⚡️ Use your skills wisely! 🌍✨
+
 <p align="left">
 </p>
 
