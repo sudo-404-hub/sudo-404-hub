@@ -3,11 +3,10 @@
 
 - 🌱 I’m currently learning **Networking**
 
-- 📫 How to reach me [Discord](**https://discord.com/users/1248974414221938728**)
+- 📫 How to reach me [Discord](https://discord.com/users/1248974414221938728)
 
 - ⚡ Fun fact **see you soon.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
