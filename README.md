@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 404</h1>
 <h3 align="center">A passionate cybersecurity kid.</h3>
 
-- 🌱 I’m currently learning **OS**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me [Discord](https://discord.com/users/1248974414221938728)
 
