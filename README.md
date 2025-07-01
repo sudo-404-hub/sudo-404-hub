@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm 404</h1>
 <h3 align="center">A passionate cybersecurity kid.</h3>
 
-- 🌱 I’m currently doing **CTFS**
+- 🌱 I’m currently doing **web pentesting**
 
 - 📫 How to reach me [Discord](https://discord.com/users/1248974414221938728)
 
 - ⚡ Fun fact **see you soon.**
 
 - ✨ With great hacking power comes great responsibility! 💻⚡️ Use your skills wisely! 🌍✨
+
+-  🚀 website : https://404-zeta-sable.vercel.app/
 
 <p align="left">
 </p>
